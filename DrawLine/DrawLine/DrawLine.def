@@ -1,0 +1,4 @@
+LIBRARY	"DrawLine"
+EXPORTS 
+acrxEntryPoint PRIVATE 
+acrxGetApiVersion PRIVATE
