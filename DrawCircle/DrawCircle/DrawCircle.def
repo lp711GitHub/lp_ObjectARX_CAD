@@ -1,0 +1,4 @@
+LIBRARY	"DrawCircle"
+EXPORTS 
+acrxEntryPoint PRIVATE 
+acrxGetApiVersion PRIVATE
